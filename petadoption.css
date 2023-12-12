@@ -1,0 +1,43 @@
+.background{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(https://petsatrest.co.nz/cdn/shop/files/shutterstock_76551274_3b1d87c3-c64f-447a-8ea5-bb0649dc11af_1500x.jpg?v=1646877155);
+    height: 550px;
+    width: 100%;
+}
+.nav{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:500;
+    font-size: 20px;
+    /* background-color: #F8F9FA; */
+}
+body{
+    background-color: #F8F9FA;
+}
+.about{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+}
+.gallery{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.final{
+    margin-top: 50px;
+}
+/* .two_btn{
+    margin-top: 50px;
+    width: 50%;
+} */
+.footer{
+    margin-top: 60px;
+    height: 400px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(136,86,255,1) 32%, rgba(140,82,255,1) 40%, rgba(0,212,255,1) 100%);
+}
+.contact{ 
+}
+ul a{
+    color: white;
+    display: block;
+    text-decoration: none;
+}
